@@ -40,10 +40,10 @@ CSS
 5. Vendor prefixes: ?
 
 PERFORMANCE
-
 1. Concatenation: BRAK
 2. Minification: ?
 3. Unused CSS :? 
+
 CSS TESTING
 1. Stylelint: ?
 2. Responsive web design: OK
@@ -51,4 +51,17 @@ CSS TESTING
 4. Desktop Browser : Firefox
 5. Mobile Browsers: w trakcie
 6. OS: niedotyczy
-7.Reading Direction:
+7.Reading Direction:?
+
+IMAGES
+1.Optimization: OK Nie przekracza 1MB PrintSreen
+2.Width and Height : OK
+3.Alternative text: BRAK PrintScreen
+4.Lazy loading:?
+
+SECURITY
+1.Scan and check your web site: Site is using HTTP not HTTPS Print Screen, 
+2. HTTPS: Scan SSL OK
+3.  HTTP Strict Transport Security (HSTS):Nagłówek HTTP jest ustawiony na "Strict-Transport-Security” BRAK Print sreen
+4.  
+
