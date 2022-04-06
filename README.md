@@ -2,7 +2,7 @@
 Projekt Facebook Mamo Pracuj W IT- Napisanie przypadków testowych oraz raportowanie błędów do strony www.przekopmierzei.pl
 Test strony internetowej w ramach projektu prowadzonego na Facebook przez grupę Mamo pracuj w IT. Zadanie polega na przetestowaniu eksploracyjnym w tym napisaniu przypadków testowych i zaraportowaniu błędów stony internetowej www.przekopmierzei.pl
 
-Stronę internetową testowałam na podstawie listy kontrolnej sporządzonej w oparciu o listę kontrolną Piotra Wicherskiego.
+Stronę internetową testowałam na podstawie listy kontrolnej sporządzonej w oparciu o listę kontrolną Piotra Wicherskiego.Testowano w windows XP przeglądarka Google Chrome 64-bit
 
 HEAD
 Meta Tag
@@ -63,5 +63,14 @@ SECURITY
 1.Scan and check your web site: Site is using HTTP not HTTPS Print Screen, 
 2. HTTPS: Scan SSL OK
 3.  HTTP Strict Transport Security (HSTS):Nagłówek HTTP jest ustawiony na "Strict-Transport-Security” BRAK Print sreen
-4.  
+
+TESTY EKSPLORACYJNE:
+1.W POLU PRZEZNACZONYM NA KOMENTARZ POD ZDJĘCIAMI JEŚLI WPISZEMY JEDNYM CIĄGIEM DUŻĄ LICZBĘ LITER I WYŻLEMY KOMENTARZ- LITERY WYCHODZĄ POZA RAMKĘ POLA KOMENTARZA.
+
+
+PODSUMOWUJĄC - RAPORT LIGHTHOUSE
+1.DŁUGIE ŁADOWANIE SIĘ STRONY 780 ms
+2.DWA BŁĘDY GET 404
+3. OGÓLNE WYNIKI NA POMARAŃCZOWO.
+
 
